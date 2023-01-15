@@ -1,4 +1,4 @@
-package hello.springmvc.requestmapping;
+package hello.springmvc.basic.requestmapping;
 
 import lombok.extern.java.Log;
 import org.slf4j.Logger;
